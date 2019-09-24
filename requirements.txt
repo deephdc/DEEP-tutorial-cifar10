@@ -1,0 +1,4 @@
+# external requirements
+Sphinx
+python-dotenv>=0.5.1
+keras==2.0.2
